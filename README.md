@@ -10,8 +10,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Ian"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
+></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="8 projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
