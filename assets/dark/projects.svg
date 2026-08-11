@@ -27,7 +27,7 @@
       <text class="title" x="48" y="24">02 / U.S. RECESSION PROBABILITY DASHBOARD</text>
       <text class="copy" x="48" y="49">Gradient boosting classifier trained on 421 months of FRED data to score U.S. recession probability weekly.</text>
       <text class="copy" x="48" y="68">Fully automated pipeline — ingestion, scoring and redeployment — orchestrated end to end with Prefect and GitHub Actions.</text>
-      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · MLFLOW · PREFECT · STREAMLIT</text>
+      <text class="meta" x="48" y="87">PYTHON · SCIKIT-LEARN · MLFLOW · PREFECT</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r3" transform="translate(0 240)">

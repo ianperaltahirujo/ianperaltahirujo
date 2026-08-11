@@ -23,15 +23,13 @@
 
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a1">
-    <text class="mono" fill="var(--muted)" x="48" y="44" font-size="11" letter-spacing="3.5">PROFILE — INDEX Nº 001</text>
-    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">STATE COLLEGE, PA — 40.79° N</text>
   </g>
 
   <g class="rise a2">
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Ian Peralta</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Data Scientist — Financial &amp; Economic Analytics.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Data Science — Financial &amp; Economic Analytics.</text>
   </g>
 
   <g class="fade a4">

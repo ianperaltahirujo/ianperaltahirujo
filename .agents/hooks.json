@@ -1,0 +1,22 @@
+{
+  "vibe-island": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \u0022C:\\Users\\hyper\\.gemini\\hook-forwarders\\vibeisland-antigravity-pre-129a9b56.ps1\u0022"
+      }
+    ],
+    "PostInvocation": [
+      {
+        "type": "command",
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \u0022C:\\Users\\hyper\\.gemini\\hook-forwarders\\vibeisland-antigravity-post-129a9b56.ps1\u0022"
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \u0022C:\\Users\\hyper\\.gemini\\hook-forwarders\\vibeisland-antigravity-stop-129a9b56.ps1\u0022"
+      }
+    ]
+  }
+}
