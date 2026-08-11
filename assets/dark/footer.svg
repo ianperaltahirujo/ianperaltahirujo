@@ -16,6 +16,6 @@
   <line class="draw" x1="48" y1="24" x2="952" y2="24"/>
   <circle class="ring" cx="60" cy="64" r="5" stroke="var(--accent)" stroke-width="1" fill="none"/>
   <circle class="dot" cx="60" cy="64" r="4" fill="var(--accent)"/>
-  <text class="mono" x="82" y="68" font-size="12" letter-spacing="3" fill="var(--bone)">STATUS &#8212; BUILDING</text>
+  <text class="mono" x="82" y="68" font-size="12" letter-spacing="3" fill="var(--bone)"></text>
   <text class="mono" x="952" y="68" font-size="12" text-anchor="end" fill="var(--bone)">github.com/ianperaltahirujo&#160;&#160;&#183;&#160;&#160;State College, PA&#160;&#160;&#183;&#160;&#160;&#169; 2026</text>
 </svg>
